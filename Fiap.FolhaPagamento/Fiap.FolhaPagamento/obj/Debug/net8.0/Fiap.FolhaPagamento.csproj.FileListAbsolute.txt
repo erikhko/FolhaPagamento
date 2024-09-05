@@ -1,0 +1,14 @@
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\bin\Debug\net8.0\Fiap.FolhaPagamento.exe
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\bin\Debug\net8.0\Fiap.FolhaPagamento.deps.json
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\bin\Debug\net8.0\Fiap.FolhaPagamento.runtimeconfig.json
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\bin\Debug\net8.0\Fiap.FolhaPagamento.dll
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\bin\Debug\net8.0\Fiap.FolhaPagamento.pdb
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.AssemblyInfoInputs.cache
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.AssemblyInfo.cs
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.csproj.CoreCompileInputs.cache
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.dll
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\refint\Fiap.FolhaPagamento.dll
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.pdb
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\Fiap.FolhaPagamento.genruntimeconfig.cache
+D:\ko\Fiap.FolhaPagamento\Fiap.FolhaPagamento\obj\Debug\net8.0\ref\Fiap.FolhaPagamento.dll

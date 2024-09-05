@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.FolhaPagamento", "Fiap.FolhaPagamento\Fiap.FolhaPagamento.csproj", "{4484E581-0EBB-401C-AEE7-177237C135C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fiap.FolhaPagamento.Teste", "Fiap.FolhaPagamento.Teste\Fiap.FolhaPagamento.Teste.csproj", "{B17A66F0-ABFC-4B47-9533-15FEBC62ED42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4484E581-0EBB-401C-AEE7-177237C135C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4484E581-0EBB-401C-AEE7-177237C135C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4484E581-0EBB-401C-AEE7-177237C135C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4484E581-0EBB-401C-AEE7-177237C135C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17A66F0-ABFC-4B47-9533-15FEBC62ED42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17A66F0-ABFC-4B47-9533-15FEBC62ED42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17A66F0-ABFC-4B47-9533-15FEBC62ED42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17A66F0-ABFC-4B47-9533-15FEBC62ED42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E1233E7-41F1-4060-8030-271BB737FD38}
+	EndGlobalSection
+EndGlobal

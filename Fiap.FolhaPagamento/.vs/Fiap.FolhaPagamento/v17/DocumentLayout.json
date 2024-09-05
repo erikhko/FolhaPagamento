@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ko\\Fiap.FolhaPagamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B17A66F0-ABFC-4B47-9533-15FEBC62ED42}|Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj|d:\\ko\\fiap.folhapagamento\\fiap.folhapagamento.teste\\inssfaixateste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17A66F0-ABFC-4B47-9533-15FEBC62ED42}|Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj|solutionrelative:fiap.folhapagamento.teste\\inssfaixateste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17A66F0-ABFC-4B47-9533-15FEBC62ED42}|Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj|d:\\ko\\fiap.folhapagamento\\fiap.folhapagamento.teste\\inssteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B17A66F0-ABFC-4B47-9533-15FEBC62ED42}|Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj|solutionrelative:fiap.folhapagamento.teste\\inssteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4484E581-0EBB-401C-AEE7-177237C135C1}|Fiap.FolhaPagamento\\Fiap.FolhaPagamento.csproj|d:\\ko\\fiap.folhapagamento\\fiap.folhapagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4484E581-0EBB-401C-AEE7-177237C135C1}|Fiap.FolhaPagamento\\Fiap.FolhaPagamento.csproj|solutionrelative:fiap.folhapagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B17A66F0-ABFC-4B47-9533-15FEBC62ED42}|Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj|d:\\ko\\fiap.folhapagamento\\fiap.folhapagamento.teste\\fiap.folhapagamento.teste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B17A66F0-ABFC-4B47-9533-15FEBC62ED42}|Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj|solutionrelative:fiap.folhapagamento.teste\\fiap.folhapagamento.teste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "INSSFaixaTeste.cs",
+              "DocumentMoniker": "D:\\ko\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento.Teste\\INSSFaixaTeste.cs",
+              "RelativeDocumentMoniker": "Fiap.FolhaPagamento.Teste\\INSSFaixaTeste.cs",
+              "ToolTip": "D:\\ko\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento.Teste\\INSSFaixaTeste.cs",
+              "RelativeToolTip": "Fiap.FolhaPagamento.Teste\\INSSFaixaTeste.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:54:30.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InssTeste.cs",
+              "DocumentMoniker": "D:\\ko\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento.Teste\\InssTeste.cs",
+              "RelativeDocumentMoniker": "Fiap.FolhaPagamento.Teste\\InssTeste.cs",
+              "ToolTip": "D:\\ko\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento.Teste\\InssTeste.cs",
+              "RelativeToolTip": "Fiap.FolhaPagamento.Teste\\InssTeste.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:38:51.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fiap.FolhaPagamento.Teste",
+              "DocumentMoniker": "D:\\ko\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj",
+              "RelativeDocumentMoniker": "Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj",
+              "ToolTip": "D:\\ko\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj",
+              "RelativeToolTip": "Fiap.FolhaPagamento.Teste\\Fiap.FolhaPagamento.Teste.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T23:36:38.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ko\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento\\Program.cs",
+              "RelativeDocumentMoniker": "Fiap.FolhaPagamento\\Program.cs",
+              "ToolTip": "D:\\ko\\Fiap.FolhaPagamento\\Fiap.FolhaPagamento\\Program.cs",
+              "RelativeToolTip": "Fiap.FolhaPagamento\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:01:58.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
